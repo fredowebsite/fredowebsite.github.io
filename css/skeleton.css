@@ -430,3 +430,7 @@ there.
 h1#title {
     font-size: 10.0rem; line-height: 5.0;  letter-spacing: -.1rem;
 }
+
+div#title2 {
+background-color:rgba(65,65,65,0.5);
+}
